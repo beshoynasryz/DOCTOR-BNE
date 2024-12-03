@@ -25,7 +25,6 @@ dist-ssr
 *.sw?
 
 # Ignore everything in assets folder except the folder itself
-assets
 
 node_modules/
 dist/
